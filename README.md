@@ -11,6 +11,8 @@ Next steps :- To perform various feature engineering techniques to make the accu
 
 Prerequisites -
 
+There are two files attached. One is the dataset with .xlsb extension which is compressed (when the repository gets downloaded , save the file as .csv )and another one is .ipynb file which can be opened with Jupyter notebook application
+
 To have python installed and have jupternotebook application
 Install necessary libraries by running following command in jupyter notebook "pip install pandas numpy matplotlib seaborn"
 How to run - Clone the repository
