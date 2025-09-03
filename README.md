@@ -1,5 +1,5 @@
 # Mental-Health-Treatment-prediction
-Developed a machine learning model which predicts whether a person should undergo medical treatment based on a public Dataset extracted from Kaggle.
+Developed a machine learning model which predicts whether a person should undergo medical treatment based on a public Dataset downloaded from Kaggle https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset
 
 It included various parameters / features like Gender, Country, Occupation, Changing habits, etc.
 Since it was a classification case , whether a person should undergo medical treatment or not , we used classic go to machine learning algorithms of Logistic Regression , RandomForestClassifier and XGboost .
